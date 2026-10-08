@@ -27,25 +27,6 @@ export const stories = [
         storyImage: "https://picsum.photos/400/700?random=4",
         seen: false,
     },
-    {
-        id: 5,
-        username: "david_ali",
-        profileImage: "https://i.pravatar.cc/150?img=5",
-        storyImage: "https://picsum.photos/400/700?random=5",
-        seen: true,
-    },
-    {
-        id: 6,
-        username: "lisa_malik",
-        profileImage: "https://i.pravatar.cc/150?img=6",
-        storyImage: "https://picsum.photos/400/700?random=6",
-        seen: false,
-    },
-    {
-        id: 7,
-        username: "mike_jones",
-        profileImage: "https://i.pravatar.cc/150?img=7",
-        storyImage: "https://picsum.photos/400/700?random=7",
-        seen: false,
-    },
+    
+    
 ];
